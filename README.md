@@ -129,5 +129,5 @@ RCircos.Heatmap.Plot(data, data.col = 7, track.num = 10, side = "in",
                      min.value = -3, max.value = 2,
                      is.sorted = F)
 
-![image](https://user-images.githubusercontent.com/66779651/197966974-592daf8a-ebf8-4c93-88a2-ff51c2ba99a3.png)
+
 
