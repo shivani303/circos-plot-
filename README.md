@@ -134,6 +134,7 @@ RCircos.Heatmap.Plot(data, data.col = 7, track.num = 10, side = "in",
 #INTERPRETATION
 
 Circos plots are a great way to show genomic data. Circos can illustrate genomic rearrangements, where a relationship between two elements (genomic positions) represents a structural fusion.
+Above ideogram plot shows the differentially expressed upregulated genes expression patterns and the distribution of the chromosomal location where they are located, with the outer circle representing the chromosome and the location of the gene in the chromosome, and the heatmap in the inner circle representing the expression of all upregulated differentially expressed genes (DEGs)
 analysis of which genes from sample dataset are present on which chromosome and their regulation i.e.. up-regulated and down-regulated is done.
 Outermost circle shows the chormosomes (autosomes + sex chromosomes) , chromosome number and genes from sample data present on which chromosome.
 Inner circle shows the heatmap of regulation of genes, which gene is down-regulated and up-regulated.
