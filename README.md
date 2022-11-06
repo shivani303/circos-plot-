@@ -131,4 +131,12 @@ RCircos.Heatmap.Plot(data, data.col = 7, track.num = 10, side = "in",
 
 ![image](https://user-images.githubusercontent.com/66779651/199909944-8c44631b-0517-4528-a1a7-deb31c722344.png)
 
+#INTERPRETATION
+
+Circos plots are a great way to show genomic data. Circos can illustrate genomic rearrangements, where a relationship between two elements (genomic positions) represents a structural fusion.
+analysis of which genes from sample dataset are present on which chromosome and their regulation i.e.. up-regulated and down-regulated is done.
+Outermost circle shows the chormosomes (autosomes + sex chromosomes) , chromosome number and genes from sample data present on which chromosome.
+Inner circle shows the heatmap of regulation of genes, which gene is down-regulated and up-regulated.
+In above plot we can see that most of the genes are present on chromosome number 16. 
+
 
